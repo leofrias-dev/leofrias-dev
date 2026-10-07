@@ -48,7 +48,10 @@
 
 * **Cursos & Certificações:** Formação em Java e Lógica de Programação pela Alura | Ecossistema Navira/Geração Caldeira.
 
-
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,git,github" alt="Ícones de Tecnologias" />
+</p>
 
 ---
 
