@@ -61,8 +61,6 @@
 
 <p align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=leofrias-dev&show_icons=true&theme=dark" alt="Leo's GitHub Stats" height="150" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofrias-dev&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
 
 </p> 
