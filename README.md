@@ -32,7 +32,7 @@
 
 - 💡 Atuo na interseção entre biotecnologia e tecnologia, desenvolvendo soluções em Java com foco em backend e aplicações voltadas à área da saúde e das ciências biológicas.
 
-- 🚀 Meu foco atual é dominar lógica de programação, Orientação a Objetos e desenvolver projetos backend com aplicação prática que unam desenvolvimento de software e soluções do mundo real.
+- 🚀 Meu foco é aplicar Java e Spring Boot em projetos úteis, especialmente nas áreas de ciência e biotecnologia que unam desenvolvimento de software e soluções do mundo real.
 
 
 
