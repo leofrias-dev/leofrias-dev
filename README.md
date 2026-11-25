@@ -6,7 +6,7 @@
 
 🌱 Focado em conectar Ciência, Biotecnologia e Desenvolvimento de Software
 
-💻 Estudando Programação Backend com Java (Alura)
+💻 Desenvolvedor Backend em formação, com foco em Java e Spring Boot
 
 
 
@@ -30,9 +30,9 @@
 
 - 🔬 Sou estudante de **Ciências Biológicas com ênfase em Biotecnologia na UERJ**, com base de ensino médio formada pelo **SESI/SENAI**, o que me deu muita visão de mundo.
 
-- 💡 Decidi expandir minha área e conectar as ciências biológicas com o desenvolvimento de software. No 5º período, aproveitei uma pausa nas aulas para mudar minha rotina e começar a estudar programação do zero.
+- 💡 Atuo na interseção entre biotecnologia e tecnologia, desenvolvendo soluções em Java com foco em backend e aplicações voltadas à área da saúde e das ciências biológicas.
 
-- 🚀 Meu foco atual é dominar lógica de programação, Orientação a Objetos e criar projetos que unam desenvolvimento de software e soluções do mundo real.
+- 🚀 Meu foco atual é dominar lógica de programação, Orientação a Objetos e desenvolver projetos backend com aplicação prática que unam desenvolvimento de software e soluções do mundo real.
 
 
 
